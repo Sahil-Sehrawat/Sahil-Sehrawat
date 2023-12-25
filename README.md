@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sahilsehrawat89" target="blank"><img src="https://img.shields.io/twitter/follow/sahilsehrawat89?logo=twitter&style=for-the-badge" alt="sahilsehrawat89" /></a> </p>
 
-- 🔭 I’m currently Studying **Data Science**
-
-- 🌱 I’m currently learning **Data Science**
+- 🔭 I’m currently learning **Data Science**
 
 - 💬 Ask me about **Data, SQL, Python, Excel, Analytics**
 
