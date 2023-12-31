@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sahilsehrawat89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahilsehrawat89" height="30" width="40" /></a>
-<a href="https://kaggle.com/sahil-sehrawat89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sahil-sehrawat89" height="30" width="40" /></a>
+<a href="https://kaggle.com/sahilsehrawat89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sahilsehrawat89" height="30" width="40" /></a>
 <a href="https://instagram.com/sahil_sehrawat89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahil_sehrawat89" height="30" width="40" /></a>
 <a href="https://medium.com/@sehrawatsahil0130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sehrawatsahil0130" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sehrawatsahil011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sehrawatsahil011" height="30" width="40" /></a>
